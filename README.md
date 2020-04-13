@@ -1,8 +1,10 @@
- <p align="center">
- ![alt text](https://raw.githubusercontent.com/carlospetrucio/CkDesk-ModuloLogin/master/includes/base-img/ckdesk-mdlogin-logo.png?token=AMALKAFWI4VVXXLW4LVNXHK6SS2W4)
- </p>
- 
+
+
+ ![Alt Text](https://github.com/carlospetrucio/CkDesk-ModuloLogin/raw/master/includes/base-img/ckdesk-mdlogin-logo.png)
+
+
  # CkDesk - Gerenciamento de usuários
  CkDesk - Gerenciamento de usuários
+
 
 
